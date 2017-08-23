@@ -1,0 +1,2 @@
+# scrum-ng
+Aplicacion SCRUM
